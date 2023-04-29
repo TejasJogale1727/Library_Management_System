@@ -41,7 +41,7 @@ Once the database connection link has been created you can run the project and l
 
 ## Extra information
 
-Apart from normal frame files which states for what particular thing they have been used for i have used some other files also to ease the development of project and make the code reusable.
+Apart from normal frame files which states for what particular thing they have been used for, i have used some other files also to ease the development of project and make the code reusable.
 
 - DialogSetterClass.java :- Used to display appropriate dialog (JOptionPane) on particular operation done in system.
 - MyConnectionClass.java :- Used for Database Connection in each frames in my library system.
